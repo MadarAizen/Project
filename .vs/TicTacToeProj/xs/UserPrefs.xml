@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{B055F1A2-764A-43CC-972D-1394FA204667}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TicTacToeProj PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TicTacToeProj/Models/BaseGame.cs">
+    <Files>
+      <File FileName="TicTacToeProj/EF/GameContext.cs" Line="10" Column="1" />
+      <File FileName="TicTacToeProj/Enum/GameEnd.cs" Line="1" Column="1" />
+      <File FileName="TicTacToeProj/Enum/GameType.cs" Line="1" Column="1" />
+      <File FileName="TicTacToeProj/Enum/WonNumber.cs" Line="1" Column="1" />
+      <File FileName="TicTacToeProj/Program.cs" Line="1" Column="1" />
+      <File FileName="TicTacToeProj/Models/BaseGame.cs" Line="197" Column="1" />
+      <File FileName="TicTacToeProj/Models/GameResult.cs" Line="1" Column="1" />
+      <File FileName="TicTacToeProj/Models/GameWithPlayers.cs" Line="98" Column="18" />
+      <File FileName="TicTacToeProj/Models/GameWithBot.cs" Line="1" Column="1" />
+      <File FileName="TicTacToeProj/Models/Player.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TicTacToeProj" expanded="True">
+            <Node name="TicTacToeProj" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="EF" expanded="True" />
+              <Node name="Enum" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="BaseGame.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
